@@ -1,35 +1,42 @@
-# INF99X: Sample Course
+﻿# SC-900: Microsoft セキュリティ、コンプライアンス、および ID の基礎
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+このリポジトリには、**SC-900T00: Microsoft セキュリティ、コンプライアンス、ID の基礎**のデモ スクリプトとラボの説明が含まれています。  デモ スクリプトとラボの両方は、事前構成された WWL M365 Enterprise 2019 SPE_E5 テナントへのアクセスを前提としています。これは、承認されたラボ ホスティング業者 (ALH) を通じて利用でき、Azure Pass を使用した Azure サブスクリプションの使用です。  Azure Pass は、ALH によって提供される Microsoft 365 テナントと同じ資格情報を使用して Azure サブスクリプションがセットアップされていることを確認するために呼び出されます (つまり、Azure Pass は Microsoft 365 テナントと同じ資格情報を使用して引き換えられます)。  これにより、Microsoft 365 と Azure の間を移動する際のシームレスなエクスペリエンスが可能になります。  デモ スクリプトとラボの手順は、ユーザー自身の Microsoft 365 テナントと Azure サブスクリプションで実行できますが、一部の機能がユーザーの個人サブスクリプションで有効にならない場合があるため、保証されません。
 
-## What are we doing?
+Microsoft 365 および Azure のユーザー インターフェイス (UI) は継続的に更新されています。  これらの変更が発生すると、変更を反映するようにデモとラボの手順が更新されるようにあらゆる努力が払われますが、ラボ/デモと実際のテナントで説明されている UI に差異が見られることは珍しくありません。 
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- デモ は、コースの実施中に、ライブ環境で機能をデモンストレーションするために講師が使用することを目的としています。  
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- ラボは、コース コンテンツの補足として利用できます。これらのラボは、学習パートナーが 1 日のコース配信後、長期間にわたって学習者が環境を利用できるようにすることができる場合を対象としています。コースの実施中に、講師がコースの内容をカバーし、受講者がラボを完了するための十分な時間がないためです。ラボはスタンドアロン ラボとして設計されています (ラボ間に依存関係はありません)。
 
-## How should I use these files relative to the released MOC files?
+- **あなたは MCT ですか。** - [MCT 向け GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide-JA/)をご覧ください
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+## 実行内容
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- このコースをサポートするために、コースで使用される Azure サービスを最新の状態に保つために、コース コンテンツを頻繁に更新する必要があります。  コース作成者と MCT の間のオープンな貢献を可能にし、Azure プラットフォームの変更に伴ってコンテンツを最新の状態に保つため、GitHub でラボの手順とラボ ファイルを公開しています。
 
-## What about changes to the student handbook?
+- これにより、これまでになかったようなコラボレーションの感覚がラボにもたらされることと思います。Azure が変更され、ライブ配信中に最初に見つかった場合は、ラボ ソースですぐに拡張を行ってください。  仲間の MCT を支援します。
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+## リリースされた MOC ファイルに関連してこれらのファイルを使用するには
 
-## How do I contribute?
+- インストラクター ハンドブックと PowerPoint は、コース コンテンツを教えるための主要なソースになります。
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- GitHub のこれらのファイルは、学生ハンドブックと組み合わせて使用するように設計されていますが、MCT とコース作成者が最新のラボファイルの共有ソースを有するができるように、中央リポジトリとして GitHub に用意されています。
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- 講師は資料の配信時に、最新の Azure サービスをサポートするために行われた変更がないか GitHub を確認し、配信用の最新ファイルを取得することをお勧めします。
 
-## Notes
+## 受講者用ハンドブックの変更について
 
-### Classroom Materials
+- 受講生用ハンドブックは、四半期ごとに確認作業が行われ、必要に応じて通常の MOC リリース チャンネルを通じて更新されます。
 
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+## 貢献方法:
+
+- MCT は、GitHub repro のコードまたはコンテンツにプル要求を送信できます。Microsoft とコースの作成者は、必要に応じてコンテンツとラボ コードの変更をトリアージして含めます。
+
+- バグ、変更、改善、アイデアを提出ください。  新しい Azure 機能を見つけた場合:  新しいデモを送信する。
+
+## メモ
+
+### 教室資料
+
+MCT およびパートナーがこれらの資料にアクセスし、順番に学生に個別に提供することを強くお勧めします。  学生が GitHub に直接アクセスして、進行中のクラスの一部としてラボの手順にアクセスすると、コースの一部として別の UI にアクセスしなければならず、学生にとっては混乱を招くことになります。学生が個別の演習の指示を受ける理由に関する説明は、常に変化するクラウドベースのインターフェイスとプラットフォームの性質を強調できます。GitHub 上のファイルにアクセスするためのマイクロソフトラーニングサポートと GitHub サイトのナビゲーションのサポートは、このコースのみを教える MCT に限定されます。
