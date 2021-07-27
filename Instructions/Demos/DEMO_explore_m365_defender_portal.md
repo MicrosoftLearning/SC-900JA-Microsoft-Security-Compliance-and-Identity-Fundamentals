@@ -1,4 +1,4 @@
-﻿---
+---
 デモ:
     title: 'Microsoft 365 Defender ポータル'
     module: 'モジュール 3 レッスン 5: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft 365 のセキュリティ管理機能について説明する'
