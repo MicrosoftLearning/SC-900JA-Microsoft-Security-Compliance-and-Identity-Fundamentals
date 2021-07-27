@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Security Center の詳細を確認する'
     module: 'モジュール 3 レッスン 2: Microsoft セキュリティ ソリューションの機能を説明する: Azure のセキュリティ管理機能について説明する'
