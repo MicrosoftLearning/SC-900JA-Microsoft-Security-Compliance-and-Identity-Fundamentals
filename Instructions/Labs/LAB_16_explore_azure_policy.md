@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Policy を詳細に確認する'
     module: 'モジュール 4 レッスン 5: Microsoft コンプライアンス ソリューションの機能について説明する: Azure Policy について説明する'
