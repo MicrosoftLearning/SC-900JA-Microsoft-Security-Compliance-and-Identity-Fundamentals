@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Privileged Identity Management による Azure AD の ID ガバナンスの詳細を確認する'
     module: 'モジュール 2 レッスン 4: Azure AD の ID 保護およびガバナンス機能について説明する: Azure Identity Protection について説明する。'
