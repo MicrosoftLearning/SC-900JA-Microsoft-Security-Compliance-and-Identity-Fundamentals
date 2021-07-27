@@ -1,4 +1,4 @@
-﻿---
+---
 ラボ:
     title: 'Microsoft Intune を詳細に確認する'
     module: 'モジュール 3 レッスン 6: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft Intune のエンドポイント セキュリティについて説明する'
