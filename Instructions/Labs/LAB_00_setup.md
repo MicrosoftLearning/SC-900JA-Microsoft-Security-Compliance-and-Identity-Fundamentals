@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: 'セットアップ'
+    title: '設定'
 ---
 
 # ラボ: 設定
@@ -18,7 +18,7 @@ lab:
 
 1. Microsoft Edge アイコンを右クリックして、「**新しい InPrivate ウィンドウ**」 を選択して、新しい In-Private ブラウザー セッションを開始します。その他 
 
-1. アドレス バーに、「**www.microsoftazurepass.com**」 と入力します。  
+1. アドレス バーに、**www.microsoftazurepass.com** と入力します。  
 
 1. 「**開始**」ボタンを選択して、開始します。
 
