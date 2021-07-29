@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Service Trust Portal を詳細に確認する'
     module: 'モジュール 4 レッスン 1: Microsoft コンプライアンス ソリューションの機能について説明する: Microsoft のコンプライアンス管理機能について説明する'

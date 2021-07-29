@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Sentinel の詳細を確認する'
     module: 'モジュール 3 レッスン 3: Microsoft セキュリティ ソリューションの機能を説明する: Azure Sentinel のセキュリティ機能について説明する'

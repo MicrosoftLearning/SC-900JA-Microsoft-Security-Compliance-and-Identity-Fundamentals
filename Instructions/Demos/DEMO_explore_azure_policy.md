@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure Policy'
     module: 'モジュール 4 レッスン 5: Microsoft コンプライアンス ソリューションの機能について説明する: Azure Policy について説明する'

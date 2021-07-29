@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿---
 Demo:
+=======
+---
+デモ:
+>>>>>>> f8a210d0211b5c1da6d3b1986a8cf5a73bf4655f
     title: 'Microsoft 365 Defender ポータル'
     module: 'モジュール 3 レッスン 5: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft 365 のセキュリティ管理機能について説明する'
 ---
