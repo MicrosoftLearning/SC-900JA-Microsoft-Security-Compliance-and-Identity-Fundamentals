@@ -17,7 +17,7 @@ lab:
 
 1. Microsoft Edge を開きます。
 
-1. アドレス バーに、**https://aks.ms/STP** と入力します。  これにより、Service Trust Portal のランディング ページが表示されます。Service Trust Portal には、Microsoft のクラウド サービスとその中の顧客データを保護する制御とプロセスの実装に関する詳細が含まれています。 
+1. アドレス バーに、**https://aka.ms/STP** と入力します。  これにより、Service Trust Portal のランディング ページが表示されます。Service Trust Portal には、Microsoft のクラウド サービスとその中の顧客データを保護する制御とプロセスの実装に関する詳細が含まれています。 
 
 1. Service Trust Portal のリソースの一部にアクセスするには、Microsoft クラウド サービス アカウントで認証済みユーザーとしてログインし、コンプライアンス資料に関する Microsoft 機密保持契約を確認して同意する必要があります。Service Trust Portal のランディング ページの右上隅に、サインインするオプションが表示されます。管理者の資格情報を使用して**サインイン**し、プロンプトが表示されたら、「**同意する**」を選択して、コンプライアンス資料に関する Microsoft 機密保持契約に同意します。
 
