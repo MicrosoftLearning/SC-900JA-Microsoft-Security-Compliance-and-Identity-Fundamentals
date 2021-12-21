@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Microsoft Intune'
     module: 'モジュール 3 レッスン 6: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft Intune のエンドポイント セキュリティについて説明する'

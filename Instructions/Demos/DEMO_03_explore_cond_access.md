@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Azure Active Directory の条件付きアクセス'
     module: 'モジュール 2 レッスン 3: Microsoft ID およびアクセス管理ソリューションの機能について説明する: Azure AD のアクセス管理機能について詳細を確認する'
