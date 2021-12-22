@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Service Trust Portal'
     module: 'モジュール 1 レッスン 2: Microsoft セキュリティとコンプライアンスの原則について説明する: Service Trust Portal を詳細に確認する'
