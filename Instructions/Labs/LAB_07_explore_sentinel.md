@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Microsoft Sentinel の詳細を確認する'
     module: 'モジュール 3 レッスン 3: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft Sentinel のセキュリティ管理機能について説明する'
