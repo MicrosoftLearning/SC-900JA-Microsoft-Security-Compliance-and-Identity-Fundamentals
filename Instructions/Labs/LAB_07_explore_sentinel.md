@@ -28,9 +28,9 @@ lab:
 
 4. フィルター サービス ボックスに、**Microsoft Sentinel** と入力してから、リストで **Microsoft Sentinel** を選択します。
 
-5. Microsoft Sentinel ページで、**「Microsoft Sentinel の作成」**を選択します。
+5. Microsoft Sentinel ページで、**「Microsoft Sentinel の作成」** を選択します。
 
-6. 「Microsoft Sentinel をワークスペースに追加する」ページで、**「新しいワークスペースの作成」**を選択します。
+6. 「Microsoft Sentinel をワークスペースに追加する」ページで、**「新しいワークスペースの作成」** を選択します。
 
 7. 「Log Analytics ワークスペースの作成」の「基本」タブに、次の情報を入力します。
     1. サブスクリプション:  **Azure Pass – スポンサーシップ**
@@ -54,7 +54,7 @@ lab:
 
 #### タスク 2:  Microsoft Sentinel インスタンスが作成されると、Microsoft Sentinel をサポートするためにデプロイされるリソースに必要なアクセス権があることを確認する必要があります。  このタスクでは、Microsoft Sentinel のインスタンスを使用して作成したリソース グループのためにアクセス制御 (IAM) ページに移動し、利用可能なロールを確認し、自分自身 (MOD 管理者) に必要なロールを割り当てます。リソース グループ レベルにロールを割り当てることにより、ロールが Microsoft Sentinel をサポートするためにデプロイされるすべてのリソースに適用されることが保証されます。
 
-1. Microsoft Sentinel ページに左上隅の Microsoft Sentinelの上で、**「すべてのサービス」**を選択します。
+1. Microsoft Sentinel ページに左上隅の Microsoft Sentinelの上で、**「すべてのサービス」** を選択します。
 
 2. 「フィルター サービス」ボックスに、「リソース グループ」を入力し、表示される一覧で、「**リソース グループ**」を選択します。
 
@@ -66,7 +66,7 @@ lab:
 
 6. 「アクセス制御」ページで、「**+ 追加**」を選択してから、「**ロール割り当ての追加**」 を選択します。
 
-7. 「ロール割り当ての追加」ウィンドウが開きます。  「ロール フィールドの選択」で、ドロップダウン矢印を選択して、利用可能なロールを表示します。  このラボでは、「**所有者**」を選択します。  注:  ベスト プラクティスとして、ロールに必要な最小特権を割り当てる必要があります。  参照として、Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/en-us/azure/sentinel/roles
+7. 「ロール割り当ての追加」ウィンドウが開きます。  「ロール フィールドの選択」で、ドロップダウン矢印を選択して、利用可能なロールを表示します。  このラボでは、「**所有者**」を選択します。  注:  ベスト プラクティスとして、ロールに必要な最小特権を割り当てる必要があります。  参照として、Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/ja-jp/azure/sentinel/roles
 
 8. 表示されるユーザーの一覧で、「**MOD 管理者**」 を選択します。
 
@@ -143,7 +143,7 @@ lab:
 
 #### タスク 6:  Microsoft Sentinel のリソース グループを削除します。  Microsoft Sentinel は、Microsoft Sentinel に分析のために取り込まれたデータ ボリュームに基づいて構築されます。大量のデータが取り込まれますが、このラボの結果を最小限にするため、Microsoft Sentinel の特徴や機能を確認した後、Microsoft Sentinel のリソース グループを削除することをお勧めします。
 
-1. Microsoft Sentinel ページに左上隅の Microsoft Sentinelの上で、**「すべてのサービス」**を選択します。
+1. Microsoft Sentinel ページに左上隅の Microsoft Sentinelの上で、**「すべてのサービス」** を選択します。
 
 2. 「フィルター サービス」ボックスに、「リソース グループ」を入力し、表示される一覧で、 「**リソース グループ**」 を選択します。
 

@@ -51,7 +51,7 @@ Demo:
 
 1. 「アクセス制御」ページで、「**+ 追加**」を選択してから、「**ロール割り当ての追加**」を選択します。
 
-1. 「ロール割り当ての追加」ウィンドウが開きます。  「ロール フィールドの選択」で、ドロップダウン矢印を選択して、利用可能なロールを表示します。ロール 検索ボックスを選択して、**Microsoft Sentinel** と入力して、Microsoft Sentinel に関連付けられた 4 つのロールを確認します。ベスト プラクティスとして、ロールに必要な最小特権を割り当てる必要があります。  このラボの便宜上、検索ボックスに「**所有者**」と入力し、結果から「**所有者**」を選択します。  参照として、Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/en-us/azure/sentinel/roles
+1. 「ロール割り当ての追加」ウィンドウが開きます。  「ロール フィールドの選択」で、ドロップダウン矢印を選択して、利用可能なロールを表示します。ロール 検索ボックスを選択して、**Microsoft Sentinel** と入力して、Microsoft Sentinel に関連付けられた 4 つのロールを確認します。ベスト プラクティスとして、ロールに必要な最小特権を割り当てる必要があります。  このラボの便宜上、検索ボックスに「**所有者**」と入力し、結果から「**所有者**」を選択します。  参照として、Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/ja-jp/azure/sentinel/roles
 
 1. 表示されるユーザーの一覧で、「**MOD 管理者**」を選択します。
 
@@ -74,7 +74,7 @@ Demo:
 1. 「Azure Active Directory コネクタ」ページで、説明を確認し、ワークブック、クエリ、分析規則テンプレートを含む関連コンテンツをメモします。  
 
 1. メイン ウィンドウの手順タブには、Microsoft Sentinel を Azure Active Directory に統合するための前提条件が記載されています。   構成の下で、「**サインイン ログ**」を選択してから、「変更の適用」を選択します (複数のコネクタを選択できます)。  注: コネクタの接続状態が表示されるまでに時間がかかる場合があります (約 30 分程度)。  参考として:
-    1. Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/en-us/azure/sentinel/roles
+    1. Microsoft Sentinel で、アクセス許可を確認します。  https://docs.microsoft.com/ja-jp/azure/sentinel/roles
     1. Azure Active Directory に接続する:  https://docs.microsoft.com/ja-jp/azure/sentinel/connect-azure-active-directory
 
 1. 「次のステップ」タブで、推奨されるワークブックの一覧に注意してください。   「推奨されるワークブック」の下で、「**Azure サインイン ログ**」を選択します (追加ワークブックを選択できます)。
