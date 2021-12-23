@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Microsoft Defender for Cloud を詳細に確認する'
     module: 'モジュール 3 レッスン 2: Microsoft セキュリティ ソリューションの機能を説明する: Azure のセキュリティ管理機能について説明する'

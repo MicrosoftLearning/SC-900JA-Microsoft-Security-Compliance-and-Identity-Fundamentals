@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Sentinel'
     module: 'モジュール 3 レッスン 3: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft Sentinel のセキュリティ管理機能について説明する'

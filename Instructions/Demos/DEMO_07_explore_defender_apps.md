@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Defender for Cloud Apps'
     module: 'モジュール 3 レッスン 4: Microsoft セキュリティ ソリューションの機能を説明する: Microsoft 365 Defender を使用した脅威に対する保護について説明する'

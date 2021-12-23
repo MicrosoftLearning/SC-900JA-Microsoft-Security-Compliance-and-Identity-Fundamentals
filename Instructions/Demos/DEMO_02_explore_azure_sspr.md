@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure Active Directory のセルフサービス パスワード リセット'
     module: 'モジュール 2 レッスン 2: Microsoft ID およびアクセス管理ソリューションの機能について説明する: Azure AD のさまざまな認証方法について説明する'

@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure Active Directory ユーザー設定'
     module: 'モジュール 2 レッスン 1: Microsoft ID およびアクセス管理ソリューションの機能について説明する: Azure AD のサービスと ID の種類について調べる'

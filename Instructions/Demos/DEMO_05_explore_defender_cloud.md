@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Defender for Cloud'
     module: 'モジュール 3 レッスン 2: Microsoft セキュリティ ソリューションの機能を説明する: Azure のセキュリティ管理機能について説明する'
